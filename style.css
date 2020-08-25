@@ -126,11 +126,11 @@ h2 {
  .popup, .popup2 {
   color: white;
   display: flex;
-  align-items: left;
+  align-items: center;
   justify-content: center;
   position: fixed;
   width: 100vw;
-  height: 1000vh;
+  height: 100vh;
   bottom: 0;
   top: 0;
   left: 0;
