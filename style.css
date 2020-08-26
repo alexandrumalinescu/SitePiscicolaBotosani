@@ -27,7 +27,7 @@ footer{
 }
 @media screen and (max-width: 600px){
   footer {
-    margin-top: 50vh;
+    margin-top: 53vh;
   }
 }
 
@@ -144,7 +144,7 @@ h2 {
   padding: 50px 10px;
   margin: 0;
   font-size: 14px;
-  line-height: 30px;
+  line-height: 25px;
 }
 
 .close {
