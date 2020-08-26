@@ -146,11 +146,6 @@ h2 {
   font-size: 14px;
   line-height: 30px;
 }
-/* @media screen and (max-width: 600px){
-  .popup .popup2{
-    height: 200vh;
-  }
-} */
 
 .close {
   position: absolute;
